@@ -5,7 +5,7 @@
 </p>
 
 ## Description
-In this project, we developed an interactive Streamlit dashboard of Spotify chart data and hosted it on Amazon EC2. We used various AWS services listed in the next section for both backend and frontend processing.
+In this group project, we developed an interactive Streamlit dashboard of Spotify chart data and hosted it on Amazon EC2. We used various AWS services listed in the next section for both backend and frontend processing.
 
 ## Tools and Services Used
 - Amazon S3: Store raw data (CSV) from Spotify
